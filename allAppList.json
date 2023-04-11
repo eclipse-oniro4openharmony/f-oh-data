@@ -87,7 +87,7 @@
         "id": 7,
         "name": "2048",
         "desc": "本示例使用Grid组件，实现了2048小游戏功能",
-        "icon": "/data/ohos.samples.game2048/icon.icon",
+        "icon": "/data/ohos.samples.game2048/icon.png",
         "vender": "@ohos.samples",
         "packageName": "ohos.samples.game2048",
         "version": "1.0.0",
