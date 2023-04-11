@@ -71,17 +71,17 @@
     },
     {
         "id": 6,
-        "name": "应用名称",
-        "desc": "应用描述...",
-        "icon": "",
-        "vender": "",
-        "packageName": "org.ohosdev.xxxxxx",
+        "name": "磁力搜索",
+        "desc": "简单的磁力搜索app，实现了一个非常简单的网页爬虫，解析html数据并展示，并简单实现了加载更多",
+        "icon": "/data/MagnetSpider/icon.png",
+        "vender": "@z-p-j",
+        "packageName": "org.ohosdev.magnetspider",
         "version": "1.0.0",
-        "hapUrl": "",
+        "hapUrl": "/data/MagnetSpider/MagnetSpider-1.0.0.hap",
         "type": "app",
-        "tags": "",
-        "openSourceAddress": "",
-        "releaseTime": ""
+        "tags": "工具，磁力搜索",
+        "openSourceAddress": "https://gitee.com/ohos-dev/magnet-spider",
+        "releaseTime": "2023-04-03"
     },
     {
         "id": 7,
