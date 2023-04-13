@@ -86,30 +86,30 @@
     {
         "id": 7,
         "name": "2048",
-        "desc": "本示例使用Grid组件，实现了2048小游戏功能",
+        "desc": "官方示例，本示例使用Grid组件，实现了2048小游戏功能",
         "icon": "/data/ohos.samples.game2048/icon.png",
         "vender": "@ohos.samples",
         "packageName": "ohos.samples.game2048",
         "version": "1.0.0",
         "hapUrl": "/data/ohos.samples.game2048/2048-1.0.0.hap",
         "type": "game",
-        "tags": "游戏，休闲益智",
+        "tags": "官方示例，游戏，休闲益智",
         "openSourceAddress": "https://gitee.com/openharmony/applications_app_samples/tree/master/code/Solutions/Game/Game2048",
-        "releaseTime": ""
+        "releaseTime": "2023-04-11"
     },
     {
         "id": 8,
-        "name": "应用名称",
-        "desc": "应用描述...",
-        "icon": "",
-        "vender": "",
-        "packageName": "org.ohosdev.xxxxxx",
+        "name": "翻页时钟",
+        "desc": "官方示例，本示例集中展示了时钟、闹钟、倒计时等相关的场景",
+        "icon": "/data/ohos.samples.flipclock/icon.png",
+        "vender": "@ohos.samples",
+        "packageName": "ohos.samples.flipclock",
         "version": "1.0.0",
-        "hapUrl": "",
+        "hapUrl": "/data/ohos.samples.flipclock/FlipClock-1.0.0.hap",
         "type": "app",
-        "tags": "",
-        "openSourceAddress": "",
-        "releaseTime": ""
+        "tags": "官方示例，翻页时钟，工具",
+        "openSourceAddress": "https://gitee.com/openharmony/applications_app_samples/tree/master/code/Solutions/Tools/FlipClock",
+        "releaseTime": "2023-04-13"
     },
     {
         "id": 9,
