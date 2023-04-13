@@ -113,17 +113,17 @@
     },
     {
         "id": 9,
-        "name": "应用名称",
-        "desc": "应用描述...",
-        "icon": "",
-        "vender": "",
-        "packageName": "org.ohosdev.xxxxxx",
+        "name": "Unicode 编解码",
+        "desc": "Unicode转字符，字符转Unicode。",
+        "icon": "/data/org.ohosdev.unicodecodec/icon.png",
+        "vender": "Liujingtao",
+        "packageName": "org.ohosdev.unicodecodec",
         "version": "1.0.0",
-        "hapUrl": "",
+        "hapUrl": "/data/ohos.samples.flipclock/UnicodeCodec-1.0.0.hap",
         "type": "app",
-        "tags": "",
-        "openSourceAddress": "",
-        "releaseTime": ""
+        "tags": "编解码，工具",
+        "openSourceAddress": "https://gitee.com/Autumn__Moon/UnicodeCodec.git",
+        "releaseTime": "2023-04-14"
     },
     {
         "id": 10,
