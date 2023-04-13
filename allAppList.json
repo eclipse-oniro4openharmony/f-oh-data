@@ -119,7 +119,7 @@
         "vender": "Liujingtao",
         "packageName": "org.ohosdev.unicodecodec",
         "version": "1.0.0",
-        "hapUrl": "/data/ohos.samples.flipclock/UnicodeCodec-1.0.0.hap",
+        "hapUrl": "/data/org.ohosdev.unicodecodec/UnicodeCodec-1.0.0.hap",
         "type": "app",
         "tags": "编解码，工具",
         "openSourceAddress": "https://gitee.com/Autumn__Moon/UnicodeCodec.git",
