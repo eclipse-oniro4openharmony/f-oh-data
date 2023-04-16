@@ -1,4 +1,4 @@
 {
     "showAnnouncement": true,
-    "announcement": "F-OH 是一个 OpenHarmony 平台上 FOSS（Free and Open Source Software，自由开源软件）的应用中心，开源社区：https://gitee.com/ohos-dev"
+    "announcement": "F-OH v1.1.2 已发布，修复OH3.2Release及以上版本应用操作按钮字样显示不全的问题"
 }
