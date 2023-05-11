@@ -169,17 +169,17 @@
     },
     {
         "id": 12,
-        "name": "应用名称",
-        "desc": "应用描述...",
-        "icon": "",
-        "vender": "",
-        "packageName": "org.ohosdev.xxxxxx",
-        "version": "1.0.0",
-        "hapUrl": "",
-        "type": "app",
-        "tags": "",
-        "openSourceAddress": "",
-        "releaseTime": ""
+        "name": "小游戏",
+        "desc": "一个基于HarmonyOS开发的原生应用，简单的经典小游戏集合，目前仅上线了2048，其余游戏陆续更新中。。。",
+        "icon": "/data/org.ohosdev.MiniGame/icon.png",
+        "vender": "@chen7712369",
+        "packageName": "org.ohosdev.MiniGame",
+        "version": "1.0.1",
+        "hapUrl": "/data/org.ohosdev.MiniGame/MiniGame-1.0.1.hap",
+        "type": "game",
+        "tags": "游戏，休闲，2048",
+        "openSourceAddress": "https://gitee.com/ohos-dev/mini-game.git",
+        "releaseTime": "2023-05-11"
     },
     {
         "id": 13,
