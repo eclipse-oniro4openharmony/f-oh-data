@@ -171,7 +171,7 @@
         "id": 12,
         "name": "小游戏",
         "desc": "原生开发的经典小游戏集合，目前仅上线了2048，其余游戏陆续更新中。。。",
-        "icon": "/data/org.ohosdev.MiniGame/icon.png",
+        "icon": "/data/org.ohosdev.minigame/icon.png",
         "vender": "@chen7712369",
         "packageName": "org.ohosdev.MiniGame",
         "version": "1.0.2",
