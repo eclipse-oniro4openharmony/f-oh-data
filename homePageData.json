@@ -1,4 +1,4 @@
 {
     "showAnnouncement": true,
-    "announcement": "- F-OH发布新版1.2.2\n\n- 应用列表图标圆角优化\n\n- 设置页面UI细节优化\n\n- 注意，此版本更换了签名，将不能在线覆盖更新，需要手动下载并卸载旧版重装"
+    "announcement": "F-OH v1.2.2 已发布\n\n- 应用图标圆角和设置界面优化\n\n- 注意，由于此版本更换了签名，v1.2.1以及之前的版本将无法在线更新F-OH自身，需要卸载旧版并下载新版手动安装（gitee.com/ohos-dev/f-oh/releases）"
 }
