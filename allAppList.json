@@ -175,7 +175,7 @@
         "vender": "@chen7712369",
         "packageName": "org.ohosdev.minigame",
         "version": "1.1.0",
-        "hapUrl": "/data/org.ohosdev.MiniGame/MiniGame-1.1.0.hap",
+        "hapUrl": "/data/org.ohosdev.minigame/MiniGame-1.1.0.hap",
         "type": "game",
         "tags": "游戏，休闲，2048，俄罗斯方块",
         "openSourceAddress": "https://gitee.com/ohos-dev/mini-game.git",
