@@ -130,7 +130,7 @@
         "name": "字符转换工具",
         "desc": "Unicode转字符，字符转Unicode，简转繁，繁简转。",
         "icon": "/data/org.ohosdev.unicodecodec/icon.png",
-        "vender": "Liujingtao",
+        "vender": "@Liujingtao",
         "packageName": "org.ohosdev.unicodecodec",
         "version": "1.0.1",
         "hapUrl": "/data/org.ohosdev.unicodecodec/UnicodeCodec-1.0.1.hap",
