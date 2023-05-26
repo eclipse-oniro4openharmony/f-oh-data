@@ -9,7 +9,7 @@
         "version": "1.2.2",
         "hapUrl": "/data/org.ohosdev.foh/F-OH-1.2.2.hap",
         "type": "app",
-        "tags": "应用中心，应用市场",
+        "tags": "必备应用，应用中心，应用市场",
         "openSourceAddress": "https://gitee.com/ohos-dev/f-oh",
         "releaseTime": "2023-04-11"
     },
@@ -23,7 +23,7 @@
         "version": "1.2.3",
         "hapUrl": "/data/org.ohosdev.deviceinfo/DeviceInfo-1.2.3.hap",
         "type": "app",
-        "tags": "工具",
+        "tags": "实用工具，设备检测",
         "openSourceAddress": "https://gitee.com/ohos-dev/device-info",
         "releaseTime": "2023-03-22"
     },
@@ -37,7 +37,7 @@
         "version": "1.1.1",
         "hapUrl": "/data/org.ohosdev.browserce/BrowserCE-1.1.1.hap",
         "type": "app",
-        "tags": "浏览器",
+        "tags": "实用工具，浏览器",
         "openSourceAddress": "https://gitee.com/ohos-dev/browser-ce",
         "releaseTime": "2023-03-26"
     },
@@ -51,7 +51,7 @@
         "version": "1.1.0",
         "hapUrl": "/data/org.ohosdev.virtualkeyboard/VirtualKeyboard-1.1.0.hap",
         "type": "app",
-        "tags": "工具，输入法",
+        "tags": "实用工具，中文输入",
         "openSourceAddress": "https://gitee.com/ohos-dev/virtual-keyboard",
         "releaseTime": "2023-03-28"
     },
@@ -65,7 +65,7 @@
         "version": "1.0.0",
         "hapUrl": "/data/org.ohosdev.webapp/WebApp-1.0.0.hap",
         "type": "app",
-        "tags": "",
+        "tags": "示例应用，网页封装",
         "openSourceAddress": "https://gitee.com/ohos-dev/web-app",
         "releaseTime": ""
     },
@@ -79,7 +79,7 @@
         "version": "1.1.0",
         "hapUrl": "/data/org.ohosdev.tetris/Tetris-1.1.0.hap",
         "type": "game",
-        "tags": "掌机经典，休闲游戏",
+        "tags": "休闲游戏，俄罗斯方块，掌机经典",
         "openSourceAddress": "https://gitee.com/ohos-dev/tetris",
         "releaseTime": "2023-04-05"
     },
@@ -93,7 +93,7 @@
         "version": "1.0.0",
         "hapUrl": "/data/org.ohosdev.magnetspider/MagnetSpider-1.0.0.hap",
         "type": "app",
-        "tags": "工具，磁力搜索",
+        "tags": "实用工具，磁力搜索",
         "openSourceAddress": "https://gitee.com/ohos-dev/magnet-spider",
         "releaseTime": "2023-04-03"
     },
@@ -107,7 +107,7 @@
         "version": "1.0.0",
         "hapUrl": "/data/ohos.samples.game2048/2048-1.0.0.hap",
         "type": "game",
-        "tags": "官方示例，游戏，休闲益智",
+        "tags": "官方示例，休闲游戏，小游戏",
         "openSourceAddress": "https://gitee.com/openharmony/applications_app_samples/tree/master/code/Solutions/Game/Game2048",
         "releaseTime": "2023-04-11"
     },
@@ -121,7 +121,7 @@
         "version": "1.0.0",
         "hapUrl": "/data/ohos.samples.flipclock/FlipClock-1.0.0.hap",
         "type": "app",
-        "tags": "官方示例，翻页时钟，工具",
+        "tags": "官方示例，时钟，闹钟，倒计时",
         "openSourceAddress": "https://gitee.com/openharmony/applications_app_samples/tree/master/code/Solutions/Tools/FlipClock",
         "releaseTime": "2023-04-13"
     },
@@ -135,7 +135,7 @@
         "version": "1.0.1",
         "hapUrl": "/data/org.ohosdev.unicodecodec/UnicodeCodec-1.0.1.hap",
         "type": "app",
-        "tags": "编解码，转换工具",
+        "tags": "实用工具，编解码，编码转换",
         "openSourceAddress": "https://gitee.com/Autumn__Moon/UnicodeCodec.git",
         "releaseTime": "2023-04-20"
     },
@@ -163,7 +163,7 @@
         "version": "1.0.0",
         "hapUrl": "/data/org.ohosdev.powermgt/PowerMGT-1.0.0.hap",
         "type": "app",
-        "tags": "工具，电源管理",
+        "tags": "实用工具，系统工具，电源模式",
         "openSourceAddress": "https://gitee.com/ohos-dev/power-mgt",
         "releaseTime": "2023-04-21"
     },
@@ -177,7 +177,7 @@
         "version": "1.1.0",
         "hapUrl": "/data/org.ohosdev.minigame/MiniGame-1.1.0.hap",
         "type": "game",
-        "tags": "游戏，休闲，2048，俄罗斯方块",
+        "tags": "休闲游戏，小游戏合集，2048，俄罗斯方块",
         "openSourceAddress": "https://gitee.com/ohos-dev/mini-game.git",
         "releaseTime": "2023-05-11"
     },
@@ -191,14 +191,14 @@
         "version": "1.0.0",
         "hapUrl": "/data/ohos.samples.storagestaistic/StorageStatistic-1.0.0.hap",
         "type": "app",
-        "tags": "实用工具、存储空间统计",
-        "openSourceAddress": "https://gitee.com/ohos-dev/applications_app_samples/tree/master/code/SystemFeature/DeviceManagement/StorageStatistic",
+        "tags": "官方示例，设备、应用、可用卷",
+        "openSourceAddress": "https://gitee.com/openharmony/applications_app_samples/tree/master/code/SystemFeature/DeviceManagement/StorageStatistic",
         "releaseTime": "2023-05-22"
     },
     {
         "id": 14,
         "name": "应用名称",
-        "desc": "应用描述...",
+        "desc": "虚位以待...",
         "icon": "",
         "vender": "",
         "packageName": "org.ohosdev.xxxxxx",
@@ -212,7 +212,21 @@
 	{
         "id": 15,
         "name": "应用名称",
-        "desc": "应用描述...",
+        "desc": "虚位以待...",
+        "icon": "",
+        "vender": "",
+        "packageName": "org.ohosdev.xxxxxx",
+        "version": "1.0.0",
+        "hapUrl": "",
+        "type": "app",
+        "tags": "",
+        "openSourceAddress": "",
+        "releaseTime": ""
+    },
+	{
+        "id": 16,
+        "name": "应用名称",
+        "desc": "虚位以待...",
         "icon": "",
         "vender": "",
         "packageName": "org.ohosdev.xxxxxx",
