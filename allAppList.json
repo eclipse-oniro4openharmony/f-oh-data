@@ -129,15 +129,15 @@
         "id": 9,
         "name": "字符转换工具",
         "desc": "Unicode转字符，字符转Unicode，简转繁，繁简转。",
-        "icon": "/data/org.ohosdev.unicodecodec/icon.png",
+        "icon": "/data/org.ohosdev.codec/icon_app.png",
         "vender": "@Liujingtao",
-        "packageName": "org.ohosdev.unicodecodec",
-        "version": "1.0.1",
-        "hapUrl": "/data/org.ohosdev.unicodecodec/UnicodeCodec-1.0.1.hap",
+        "packageName": "org.ohosdev.codec",
+        "version": "1.0.2",
+        "hapUrl": "/data/org.ohosdev.codec/Codec-1.0.2.hap",
         "type": "app",
         "tags": "实用工具，编解码，编码转换",
-        "openSourceAddress": "https://gitee.com/Autumn__Moon/UnicodeCodec.git",
-        "releaseTime": "2023-04-20"
+        "openSourceAddress": "https://gitee.com/Autumn__Moon/Codec",
+        "releaseTime": "2023-06-06"
     },
     {
         "id": 10,
@@ -197,17 +197,17 @@
     },
     {
         "id": 14,
-        "name": "应用名称",
-        "desc": "虚位以待...",
-        "icon": "",
-        "vender": "",
-        "packageName": "org.ohosdev.xxxxxx",
+        "name": "设备管理",
+        "desc": "一个多合一的工具，可以关机，重启，锁屏，查看设备信息，管理文件等，目前还需完善。",
+        "icon": "/data/org.ohosdev.devicemanagement/icon.png",
+        "vender": "LIU",
+        "packageName": "org.ohosdev.devicemanagement",
         "version": "1.0.0",
-        "hapUrl": "",
+        "hapUrl": "/data/org.ohosdev.devicemanagement/DeviceManagement-1.0.0.hap",
         "type": "app",
         "tags": "",
-        "openSourceAddress": "",
-        "releaseTime": ""
+        "openSourceAddress": "https://gitee.com/Autumn__Moon/DeviceManagement",
+        "releaseTime": "2023-06-06"
     },
 	{
         "id": 15,
