@@ -197,17 +197,17 @@
     },
     {
         "id": 14,
-        "name": "应用名称",
-        "desc": "虚位以待...",
-        "icon": "",
-        "vender": "",
-        "packageName": "org.ohosdev.xxxxxx",
+        "name": "设备管理",
+        "desc": "一个多合一的工具，可以关机，重启，锁屏，查看设备信息，管理文件等，目前还需完善。",
+        "icon": "/data/org.ohosdev.devicemanagement/icon.png",
+        "vender": "LIU",
+        "packageName": "org.ohosdev.devicemanagement",
         "version": "1.0.0",
-        "hapUrl": "",
+        "hapUrl": "/data/org.ohosdev.devicemanagement/DeviceManagement-1.0.0.hap",
         "type": "app",
         "tags": "",
-        "openSourceAddress": "",
-        "releaseTime": ""
+        "openSourceAddress": "https://gitee.com/Autumn__Moon/DeviceManagement",
+        "releaseTime": "2023-06-06"
     },
 	{
         "id": 15,
