@@ -31,7 +31,7 @@
         "id": 2,
         "name": "浏览器CE",
         "desc": "浏览器CE（社区版），基于官方demo定制增强，最新版支持下载安装hap、长按菜单等",
-        "icon": "/data/org.ohosdev.browserce/icon.png",
+        "icon": "/data/org.ohosdev.browserce/icon2.png",
         "vender": "@westinyang",
         "packageName": "org.ohosdev.browserce",
         "version": "1.2.0",
