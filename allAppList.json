@@ -202,7 +202,7 @@
         "icon": "/data/org.ohosdev.devicemanagement/icon.png",
         "vender": "@Liujingtao",
         "packageName": "org.ohosdev.devicemanagement",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "hapUrl": "/data/org.ohosdev.devicemanagement/DeviceManagement-1.0.1.hap",
         "type": "app",
         "tags": "",
