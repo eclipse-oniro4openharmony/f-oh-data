@@ -128,16 +128,16 @@
     {
         "id": 9,
         "name": "字符转换工具",
-        "desc": "Unicode转字符，字符转Unicode，简转繁，繁简转。",
+        "desc": "Unicode转字符，字符转Unicode，简转繁，繁简转，字符串加密。",
         "icon": "/data/org.ohosdev.codec/icon_app.png",
         "vender": "@Liujingtao",
         "packageName": "org.ohosdev.codec",
-        "version": "1.0.2",
-        "hapUrl": "/data/org.ohosdev.codec/Codec-1.0.2.hap",
+        "version": "1.0.3",
+        "hapUrl": "/data/org.ohosdev.codec/Codec-1.0.3.hap",
         "type": "app",
-        "tags": "实用工具，编解码，编码转换",
+        "tags": "实用工具，编解码，编码转换，加密",
         "openSourceAddress": "https://gitee.com/Autumn__Moon/Codec",
-        "releaseTime": "2023-06-06"
+        "releaseTime": "2023-06-20"
     },
     {
         "id": 10,
