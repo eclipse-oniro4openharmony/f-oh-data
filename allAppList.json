@@ -211,17 +211,17 @@
     },
 	{
         "id": 15,
-        "name": "应用名称",
-        "desc": "虚位以待...",
-        "icon": "",
-        "vender": "",
-        "packageName": "org.ohosdev.xxxxxx",
+        "name": "翻译",
+        "desc": "一个翻译工具，可以将常用语言翻译为另一种语言。",
+        "icon": "/data/org.ohosdev.translator/icon.png",
+        "vender": "@Liujingtao",
+        "packageName": "org.ohosdev.translator",
         "version": "1.0.0",
-        "hapUrl": "",
+        "hapUrl": "/data/org.ohosdev.translator/Translator-1.0.0.hap",
         "type": "app",
-        "tags": "",
-        "openSourceAddress": "",
-        "releaseTime": ""
+        "tags": "翻译，工具",
+        "openSourceAddress": "https://gitee.com/Autumn__Moon/Translator",
+        "releaseTime": "2023-07-13"
     },
 	{
         "id": 16,
