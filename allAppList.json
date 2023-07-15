@@ -212,16 +212,16 @@
 	{
         "id": 15,
         "name": "翻译",
-        "desc": "一个翻译工具，可以将常用语言翻译为另一种语言。",
+        "desc": "一个翻译工具，可以将常用语言翻译为另一种语言。温馨提示：无法安装的话卸载掉原来的重新安装。",
         "icon": "/data/org.ohosdev.translator/icon.png",
         "vender": "@Liujingtao",
         "packageName": "org.ohosdev.translator",
-        "version": "1.0.0",
-        "hapUrl": "/data/org.ohosdev.translator/Translator-1.0.0.hap",
+        "version": "1.0.2",
+        "hapUrl": "/data/org.ohosdev.translator/Translator-1.0.2.hap",
         "type": "app",
         "tags": "翻译，工具",
         "openSourceAddress": "https://gitee.com/Autumn__Moon/Translator",
-        "releaseTime": "2023-07-13"
+        "releaseTime": "2023-07-15"
     },
 	{
         "id": 16,
