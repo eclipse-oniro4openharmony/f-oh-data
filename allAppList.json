@@ -225,7 +225,7 @@
     },
 	{
         "id": 16,
-        "name": "OH哔哩（三方客户端）",
+        "name": "OH哔哩(三方客户端)",
         "desc": "使用ArkUI框架开发的哔哩哔哩动画第三方客户端",
         "icon": "/data/com.wathinst.ohbili/icon.png",
         "vender": "@wathinst",
