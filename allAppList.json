@@ -225,16 +225,16 @@
     },
 	{
         "id": 16,
-        "name": "应用名称",
-        "desc": "虚位以待...",
-        "icon": "",
-        "vender": "",
-        "packageName": "org.ohosdev.xxxxxx",
-        "version": "1.0.0",
-        "hapUrl": "",
+        "name": "OH哔哩（三方客户端）",
+        "desc": "使用ArkUI框架开发的哔哩哔哩动画第三方客户端",
+        "icon": "/data/com.wathinst.ohbili/icon.png",
+        "vender": "@wathinst",
+        "packageName": "com.wathinst.ohbili",
+        "version": "0.1.0",
+        "hapUrl": "/data/com.wathinst.ohbili/ohbili-0.1.0.hap",
         "type": "app",
-        "tags": "",
-        "openSourceAddress": "",
-        "releaseTime": ""
+        "tags": "必备应用，视频播放，三方客户端",
+        "openSourceAddress": "https://gitee.com/ohos_port/ohbili",
+        "releaseTime": "2023-07-25"
     }
 ]
