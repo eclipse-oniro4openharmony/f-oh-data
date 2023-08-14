@@ -253,7 +253,7 @@
     },
   {
         "id": 18,
-        "name": "易记账",
+        "name": "血压记录",
         "desc": "一个OpenHarmony的心率血压记录App，采用Apache2许可证签署许可",
         "icon": "/data/org.ohosdev.bloodpressure/icon.png",
         "vender": "@myyauyau/Meow Tech Open Source",
