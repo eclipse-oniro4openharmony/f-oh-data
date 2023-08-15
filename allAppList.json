@@ -266,7 +266,7 @@
           "releaseTime": "2023-08-15"
     },
     {
-          "id": 19,
+          "id": 20,
           "name": "文件管理",
           "desc": "文件管理是 OpenHarmony 的 FilePicker 的一个分支，具有重命名和删除功能。",
           "icon": "/data/org.ohosdev.filemanager/icon.png",
@@ -280,7 +280,7 @@
           "releaseTime": "2023-08-15"
     },
     {
-          "id": 20,
+          "id": 21,
           "name": "文件预览",
           "desc": "一个OpenHarmony的文件预览App。",
           "icon": "/data/org.ohosdev.ohpreview/icon.png",
