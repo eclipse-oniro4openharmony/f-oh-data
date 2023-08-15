@@ -287,7 +287,7 @@
           "vender": "@myyauyau/Meow Tech Open Source",
           "packageName": "org.ohosdev.ohpreview",
           "version": "1.0.0",
-          "hapUrl": "/data/org.ohosdev.ohpreview/FileManager-1.0.0.hap",
+          "hapUrl": "/data/org.ohosdev.ohpreview/FilePreviewer-1.0.0.hap",
           "type": "app",
           "tags": "实用工具，必备应用，视频播放，系统工具",
           "openSourceAddress": "https://gitee.com/ohos-dev/FilePreviewer",
