@@ -266,6 +266,20 @@
           "releaseTime": "2023-08-15"
     },
     {
+        "id": 19,
+        "name": "LinysTools: 聚合搜索",
+        "desc": "一键搜遍全平台！",
+        "icon": "/data/com.hmos.awaliny.myapplication/icon.png",
+        "vender": "@awa_Liny",
+        "packageName": "com.hmos.awaliny.myapplication",
+        "version": "1.0.1",
+        "hapUrl": "/data/com.hmos.awaliny.myapplication/LinysTools-1.0.1.hap",
+        "type": "app",
+        "tags": "工具",
+        "openSourceAddress": "https://gitee.com/awa_Liny/LinysTools",
+        "releaseTime": "2023-08-15"
+	},
+    {
           "id": 20,
           "name": "文件管理",
           "desc": "文件管理是 OpenHarmony 的 FilePicker 的一个分支，具有重命名和删除功能。",
@@ -292,5 +306,5 @@
           "tags": "实用工具，必备应用，视频播放，系统工具",
           "openSourceAddress": "https://gitee.com/ohos-dev/FilePreviewer",
           "releaseTime": "2023-08-15"
-    },
+    }
  ]
