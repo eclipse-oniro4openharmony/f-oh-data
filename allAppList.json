@@ -251,18 +251,46 @@
         "openSourceAddress": "https://gitee.com/ericple/oh-bill",
         "releaseTime": "2023-08-12"
     },
-  {
-        "id": 18,
-        "name": "血压记录",
-        "desc": "一个OpenHarmony的心率血压记录App，采用Apache2许可证签署许可",
-        "icon": "/data/org.ohosdev.bloodpressure/icon.png",
-        "vender": "@myyauyau/Meow Tech Open Source",
-        "packageName": "org.ohosdev.bloodpressure",
-        "version": "0.5.0",
-        "hapUrl": "/data/org.ohosdev.bloodpressure/BP-0.5.010.hap",
-        "type": "app",
-        "tags": "实用工具，健康",
-        "openSourceAddress": "https://gitee.com/ohos-dev/BloodPressureRecord",
-        "releaseTime": "2023-08-14"
-    }
-]
+    {
+          "id": 18,
+          "name": "血压记录",
+          "desc": "一个OpenHarmony的心率血压记录App，采用Apache2许可证签署许可。",
+          "icon": "/data/org.ohosdev.bloodpressure/icon.png",
+          "vender": "@myyauyau/Meow Tech Open Source",
+          "packageName": "org.ohosdev.bloodpressure",
+          "version": "0.5.1",
+          "hapUrl": "/data/org.ohosdev.bloodpressure/BP-0.5.1.hap",
+          "type": "app",
+          "tags": "实用工具，健康",
+          "openSourceAddress": "https://gitee.com/ohos-dev/BloodPressureRecord",
+          "releaseTime": "2023-08-15"
+    },
+    {
+          "id": 20,
+          "name": "文件管理",
+          "desc": "文件管理是 OpenHarmony 的 FilePicker 的一个分支，具有重命名和删除功能。",
+          "icon": "/data/org.ohosdev.filemanager/icon.png",
+          "vender": "@myyauyau/Meow Tech Open Source",
+          "packageName": "org.ohosdev.filemanager",
+          "version": "1.0.0",
+          "hapUrl": "/data/org.ohosdev.filemanager/FileManager-1.0.0.hap",
+          "type": "app",
+          "tags": "实用工具，必备应用，系统工具",
+          "openSourceAddress": "https://gitee.com/ohos-dev/FileManager/",
+          "releaseTime": "2023-08-15"
+    },
+    {
+          "id": 21,
+          "name": "文件预览",
+          "desc": "一个OpenHarmony的文件预览App。",
+          "icon": "/data/org.ohosdev.ohpreview/icon.png",
+          "vender": "@myyauyau/Meow Tech Open Source",
+          "packageName": "org.ohosdev.ohpreview",
+          "version": "1.0.0",
+          "hapUrl": "/data/org.ohosdev.ohpreview/FilePreviewer-1.0.0.hap",
+          "type": "app",
+          "tags": "实用工具，必备应用，视频播放，系统工具",
+          "openSourceAddress": "https://gitee.com/ohos-dev/FilePreviewer",
+          "releaseTime": "2023-08-15"
+    },
+ ]
