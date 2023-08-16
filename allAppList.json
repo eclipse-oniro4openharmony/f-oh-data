@@ -286,7 +286,7 @@
           "icon": "/data/org.ohosdev.filemanager/icon.png",
           "vender": "@myyauyau/Meow Tech Open Source",
           "packageName": "org.ohosdev.filemanager",
-          "version": "1.0.0",
+          "version": "1.1.0",
           "hapUrl": "/data/org.ohosdev.filemanager/FileManager-1.0.0.hap",
           "type": "app",
           "tags": "实用工具，必备应用，系统工具",
