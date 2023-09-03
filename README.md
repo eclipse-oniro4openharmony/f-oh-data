@@ -11,6 +11,7 @@ F-OH 所有应用程序的元数据，开发者可以在这里提交自己的开
 
 > F-OH仅收录自由开源软件，“自由软件必定开源，开源软件未必自由，有些开源许可证对用户过于苛刻，它们就没有被列为自由软件”，引用自由GNU，FSF创始人——Richard Stallman编写的回答：[为什么开源错失了自由软件的重点？](https://www.gnu.org/philosophy/open-source-misses-the-point.zh-cn.html)
 
+- 加入Q群：752399947，有问题方便及时沟通
 - 注册一个账号（右上角）
 - 派生（Fork）此仓库
 - 新增文件
