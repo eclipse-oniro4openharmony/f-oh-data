@@ -140,20 +140,6 @@
         "releaseTime": "2023-06-20"
     },
     {
-        "id": 10,
-        "name": "小米笔记(三方客户端)",
-        "desc": "OpenHarmony平台的小米笔记第三方客户端，目前支持获取笔记列表、搜索笔记、查看笔记文本内容等功能",
-        "icon": "/data/org.ohosdev.minote/icon.png",
-        "vender": "@z-p-j",
-        "packageName": "org.ohosdev.minote",
-        "version": "1.0.0",
-        "hapUrl": "/data/org.ohosdev.minote/MiNote-1.0.0.hap",
-        "type": "app",
-        "tags": "笔记，备忘，三方客户端",
-        "openSourceAddress": "https://gitee.com/ohos-dev/mi-note",
-        "releaseTime": "2023-04-17"
-    },
-    {
         "id": 11,
         "name": "电源管理",
         "desc": "特别为小米6、一加6T、PocoF1等OH旧手机准备的电源键拯救者",
