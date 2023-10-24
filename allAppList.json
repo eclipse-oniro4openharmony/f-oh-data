@@ -306,5 +306,19 @@
         "tags": "益智游戏，万能卡片，井字棋",
         "openSourceAddress": "https://gitee.com/zhang_yue1996/harmonyos/tree/master/jingziqi",
         "releaseTime": "2023-09-02"
+    },
+    {
+        "id": 23,
+        "name": "一叶天气",
+        "desc": "天气app，数据源为和风天气，但需要自己添加web key,见：https://dev.qweather.com/",
+        "icon": "/data/com.example.yiyeweather/icon.png",
+        "vender": "@惟草木之零落兮",
+        "packageName": "com.example.yiyeweather",
+        "version": "1.0.0",
+        "hapUrl": "/data/com.example.yiyeweather/yiyeweather-v1.0.1.hap",
+        "type": "app",
+        "tags": "实用工具，万能卡片，必备应用，天气",
+        "openSourceAddress": "https://gitee.com/ohos-dev/YiYeWeather",
+        "releaseTime": "2023-09-23"
     }
  ]
