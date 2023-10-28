@@ -320,5 +320,19 @@
         "tags": "实用工具，万能卡片，必备应用，天气",
         "openSourceAddress": "https://gitee.com/ohos-dev/YiYeWeather",
         "releaseTime": "2023-09-23"
+    },
+    {
+        "id": 24,
+        "name": "天气",
+        "desc": "开源鸿蒙天气应用",
+        "icon": "/data/com.ohos.weather/icon.png",
+        "vender": "@Ericple",
+        "packageName": "com.ohos.weather",
+        "version": "1.0.0",
+        "hapUrl": "/data/com.ohos.weather/ohos-weather v1.0.0.hap",
+        "type": "app",
+        "tags": "实用工具，必备应用，天气",
+        "openSourceAddress": "https://gitee.com/ericple/ohos-weather",
+        "releaseTime": "2023-10-29"
     }
  ]
