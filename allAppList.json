@@ -329,7 +329,7 @@
         "vender": "@Ericple",
         "packageName": "com.ohos.weather",
         "version": "1.0.0",
-        "hapUrl": "/data/com.ohos.weather/ohos-weather v1.0.0.hap",
+        "hapUrl": "/data/com.ohos.weather/ohos-weather_1.0.0.hap",
         "type": "app",
         "tags": "实用工具，必备应用，天气",
         "openSourceAddress": "https://gitee.com/ericple/ohos-weather",
