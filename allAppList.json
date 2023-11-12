@@ -334,5 +334,19 @@
         "tags": "实用工具，必备应用，天气",
         "openSourceAddress": "https://gitee.com/ericple/ohos-weather",
         "releaseTime": "2023-10-29"
+    },
+    {
+        "id": 25,
+        "name": "作业清单",
+        "desc": "使用 ArkTS 开发的任务清单工具，用时间进度条来管理您的任务截止日期",
+        "icon": "/data/top.handwer.homeworktasklist/icon.png",
+        "vender": "@Handwer",
+        "packageName": "top.handwer.homeworktasklist",
+        "version": "0.14.0",
+        "hapUrl": "/data/top.handwer.homeworktasklist/HomeworkTasklist-v0.14.0-alpha.hap",
+        "type": "app",
+        "tags": "实用工具，必备应用，待办清单",
+        "openSourceAddress": "https://gitee.com/handwer/homework-tasklist-v2/",
+        "releaseTime": "2023-11-11"
     }
  ]
