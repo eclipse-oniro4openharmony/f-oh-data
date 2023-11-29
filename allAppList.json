@@ -348,5 +348,19 @@
         "tags": "实用工具，必备应用，待办清单",
         "openSourceAddress": "https://gitee.com/handwer/homework-tasklist-v2/",
         "releaseTime": "2023-11-11"
+    },
+      {
+        "id": 26,
+        "name": "hap仓库",
+        "desc": "基于AList的hap仓库，最低api10",
+        "icon": "/data/com.example.hapwarehouse/icon.png",
+        "vender": "哔哩哔哩@绒球形机器人",
+        "packageName": "com.example.hapwarehouse",
+        "version": "0.1.0",
+        "hapUrl": "/data/com.example.hapwarehouse/hapwarehouse0.1.0.hap",
+        "type": "app",
+        "tags": "实用工具，必备应用，应用仓库",
+        "openSourceAddress": "https://gitee.com/cgwlos/hap-warehouse",
+        "releaseTime": "2023-11-29"
     }
  ]
