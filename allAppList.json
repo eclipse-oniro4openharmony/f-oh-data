@@ -356,7 +356,7 @@
         "icon": "/data/com.example.hapwarehouse/icon.png",
         "vender": "哔哩哔哩@绒球形机器人",
         "packageName": "com.example.hapwarehouse",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "hapUrl": "/data/com.example.hapwarehouse/hapWarehouse0.1.1.hap",
         "type": "app",
         "tags": "实用工具，必备应用，应用仓库",
