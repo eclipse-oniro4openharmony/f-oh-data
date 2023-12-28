@@ -366,7 +366,7 @@
     {
         "id": 27,
         "name": "图表大全",
-        "desc": "基于uCharts的图表演示应用，可以演示所有uChats图表用例并可以查看复制图表代码",
+        "desc": "基于uCharts的图表演示应用，可以演示大部分uCharts图表用例并可以查看复制示例配置数据",
         "icon": "/data/com.example.ohucharts/icon.png",
         "vender": "@华姐",
         "packageName": "com.example.ohucharts",
