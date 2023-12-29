@@ -376,19 +376,5 @@
         "tags": "图表工具，代码辅助，使用示例，uCharts",
         "openSourceAddress": "https://gitee.com/w2cxy/oh-ucharts",
         "releaseTime": "2023-12-14"
-    },
-    {
-        "id": 28,
-        "name": "分发中心",
-        "desc": "Laval社区倾心打造的开源应用分发中心，目前包含应用列表、应用安装、应用更新等功能",
-        "icon": "/data/com.laval.dispatchcenter/icon.png",
-        "vender": "@Laval社区",
-        "packageName": "com.laval.dispatchcenter",
-        "version": "1.0.0",
-        "hapUrl": "/data/com.laval.dispatchcenter/DispatchCenter-1.0.0.hap",
-        "type": "app",
-        "tags": "应用中心，应用市场",
-        "openSourceAddress": "https://gitee.com/laval-applications/laval-dispatch-center",
-        "releaseTime": "2023-12-28"
     }
  ]
