@@ -8,6 +8,19 @@ F-OH 所有应用程序的元数据，~~开发者可以在这里提交自己的�
 
 - 数据整理起止时间 2023-04-11 ~ 2023-12-29
 
+## 开启服务器
+
+本仓库内提供了一个建议的express服务器。
+
+1. 安装NodeJS与Yarn
+2. 在终端内输入`yarn install`安装依赖
+3. 在终端内输入`yarn start`启动服务器
+4. 访问`http://localhost:5000/allAppList.json`即可看到F-OH的应用列表
+
+## 应用列表
+
+> 注意：F-OH仅收录自由开源软件，“自由软件必定开源，开源软件未必自由，有些开源许可证对用户过于苛刻，它们就没有被列为自由软件”，引用自由GNU，FSF
+
 ## 提交应用
 
 > F-OH仅收录自由开源软件，“自由软件必定开源，开源软件未必自由，有些开源许可证对用户过于苛刻，它们就没有被列为自由软件”，引用自由GNU，FSF创始人——Richard Stallman编写的回答：[为什么开源错失了自由软件的重点？](https://www.gnu.org/philosophy/open-source-misses-the-point.zh-cn.html)
