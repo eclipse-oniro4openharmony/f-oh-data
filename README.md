@@ -10,12 +10,17 @@ F-OH 所有应用程序的元数据，~~开发者可以在这里提交自己的�
 
 ## 开启服务器
 
-本仓库内提供了一个建议的express服务器。
+本仓库内提供了一个简易的服务器。
 
-1. 安装NodeJS与Yarn
-2. 在终端内输入`yarn install`安装依赖
-3. 在终端内输入`yarn start`启动服务器
+1. 安装[Node.js](https://nodejs.org/)与npm（npm一般随Node.js附带）
+2. 在终端内输入`npm install`安装依赖
+3. 在终端内输入`npm start`启动服务器
 4. 访问`http://localhost:5000/allAppList.json`即可看到F-OH的应用列表
+
+或者
+
+1. 安装[Node.js](https://nodejs.org/)与npm，如果是Windows，也需要安装git（为了运行`.sh`文件）
+2. 运行`install-and-start.sh`
 
 ## 应用列表
 
