@@ -1,15 +1,13 @@
 {
   "name": "f-oh-data",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "https://gitee.com/westinyang/f-oh-data.git",
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "node index.js"
+    "start": "http-server ./ --port 5000 --cors"
   },
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "http-server": "^14.1.1"
   }
 }
