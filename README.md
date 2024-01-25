@@ -22,10 +22,6 @@ F-OH 所有应用程序的元数据，~~开发者可以在这里提交自己的�
 1. 安装[Node.js](https://nodejs.org/)与npm，如果是Windows，也需要安装git（为了运行`.sh`文件）
 2. 运行`install-and-start.sh`
 
-## 应用列表
-
-> 注意：F-OH仅收录自由开源软件，“自由软件必定开源，开源软件未必自由，有些开源许可证对用户过于苛刻，它们就没有被列为自由软件”，引用自由GNU，FSF
-
 ## 提交应用
 
 > F-OH仅收录自由开源软件，“自由软件必定开源，开源软件未必自由，有些开源许可证对用户过于苛刻，它们就没有被列为自由软件”，引用自由GNU，FSF创始人——Richard Stallman编写的回答：[为什么开源错失了自由软件的重点？](https://www.gnu.org/philosophy/open-source-misses-the-point.zh-cn.html)
