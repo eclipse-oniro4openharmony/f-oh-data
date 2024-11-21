@@ -376,5 +376,19 @@
         "tags": "图表工具，代码辅助，使用示例，uCharts",
         "openSourceAddress": "https://gitee.com/w2cxy/oh-ucharts",
         "releaseTime": "2023-12-14"
+    },
+    {
+    "id": 28,
+    "name": "数学通",
+    "desc": "助你高效提升数学成绩的学习助手",
+    "icon": "/data/com.example.oniromathpunching/icon.png",
+    "vender": "Chen",
+    "packageName": "com.example.oniromathpunching",
+    "version": "1.0.0",
+    "hapUrl": "/data/com.example.oniromathpunching/oniromathpunching-v1.0.0.hap",
+    "type": "app",
+    "tags": "实用工具，数学练习",
+    "openSourceAddress": "https://github.com/imansmallapple/app-math_practice_demo",
+    "releaseTime": "2024-11-12"
     }
  ]
