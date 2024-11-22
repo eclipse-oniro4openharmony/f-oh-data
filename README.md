@@ -1,58 +1,60 @@
-> 2023-12-29 [F-OH停服公告](https://gitee.com/westinyang/f-oh/blob/master/ServerStopAnnouncement.md)
+> 2023-12-29 [F-OH Server Stop Announcement](https://gitee.com/westinyang/f-oh/blob/master/ServerStopAnnouncement.md)
 
 # F-OH Data
+[Program Introduction](#program-introduction)  
+[Start the server](#start-the-server)  
+[Submit Application](#submit-application)  
+[How to deploy app into appstore via docker](#how-to-deploy-app-into-appstore-via-docker)  
+## Program Introduction
 
-## 项目介绍
+F-OH All application program's metadata，~~Developer can submit their own open source apps~~
 
-F-OH 所有应用程序的元数据，~~开发者可以在这里提交自己的开源应用~~
+- Data sorting start and end time 2023-04-11 ~ 2023-12-29
 
-- 数据整理起止时间 2023-04-11 ~ 2023-12-29
+## Start the server
 
-## 开启服务器
+This repository provided a simple server.
 
-本仓库内提供了一个简易的服务器。
+1. Install[Node.js](https://nodejs.org/)and npm（`npm` is always alone with `Node.js`）
+2. Type `npm install` in the terminal to Install dependencies
+3. Type `npm start` in the terminal to start the server
+4. Go to `http://localhost:5000/allAppList.json` and you can find the app list of F-OH
 
-1. 安装[Node.js](https://nodejs.org/)与npm（npm一般随Node.js附带）
-2. 在终端内输入`npm install`安装依赖
-3. 在终端内输入`npm start`启动服务器
-4. 访问`http://localhost:5000/allAppList.json`即可看到F-OH的应用列表
+Or
 
-或者
+1. Install [Node.js](https://nodejs.org/) and `npm`，if the operating system is Windows，required to install git as well（in order to run `.sh` file）
+2. Run `install-and-start.sh`
 
-1. 安装[Node.js](https://nodejs.org/)与npm，如果是Windows，也需要安装git（为了运行`.sh`文件）
-2. 运行`install-and-start.sh`
+## Submit Application
 
-## 提交应用
-
-> F-OH仅收录自由开源软件，“自由软件必定开源，开源软件未必自由，有些开源许可证对用户过于苛刻，它们就没有被列为自由软件”，引用自由GNU，FSF创始人——Richard Stallman编写的回答：[为什么开源错失了自由软件的重点？](https://www.gnu.org/philosophy/open-source-misses-the-point.zh-cn.html)
-
-- 注册一个账号（右上角）
-- 派生（Fork）此仓库
-- 新增文件
-   - /data/你的应用包名/icon.png
-   - /data/你的应用包名/应用名-版本号.hap
-- 修改文件 `allAppList.json` 追加一段，下面示例json改为自己的应用信息，所有属性均为必填
-  - id: 自增人工查看修改
-  - version: 暂时不考虑历史版本问题，保持最的版本信息即可
-  - type: 只能填写 `app` 或者 `game`
-  - tag: 标签如果有多个，用中文逗号分隔
-  - releaseTime: 发布时间为首次发布时间，后续不必修改
-  - 如果你已经操作到这里，我相信其他的属性没有必要去一一说明了！
+> Only free and open source software is included in F-OH，“Free software must be open source, but open source software is not necessarily free. Some open source licenses are too strict on users, so they are not listed as free software.”，Quoting the answer written by Richard Stallman, founder of Free GNU and FSF：[Why open source misses the point of free software?](https://www.gnu.org/philosophy/open-source-misses-the-point.zh-cn.html)
+- Register a new account（Top Right Corner）
+- Fork this repository
+- Add new files
+   - /data/Your app's bundle name/icon.png
+   - /data/Your app's bundle name/appname-version.hap
+- Modify `allAppList.json` with your app data，changing the following json into your own app information，all properties are required to fill.
+  - id: Automatically increase manual review and modification
+  - version: Not consider historical version，keep the newest version is enough
+  - type: Fill only with `app` or `game`
+  - tag: If tags are multiple，separate with commas
+  - releaseTime: Release time is the time when you release the app，no need to modify in the future
+  - If you are watching till here，I believe there is no need to introduce the rest!
 ```json
 {
     "id": 1,
-    "name": "设备信息",
-    "desc": "设备信息查看应用，开源应用第一弹~",
+    "name": "device Infomation",
+    "desc": "Device information viewing application, the first open source application~",
     "icon": "/data/org.ohosdev.deviceinfo/icon.png",
     "vender": "@westinyang",
     "packageName": "org.ohosdev.deviceinfo",
     "version": "1.0.0",
     "hapUrl": "/data/org.ohosdev.deviceinfo/DeviceInfo-1.0.0.hap",
     "type": "app",
-    "tags": "工具",
+    "tags": "Tool",
     "openSourceAddress": "https://gitee.com/ohos-dev/device-info",
     "releaseTime": "2023-03-22"
 }
 ```
-- 最后一步，发起合并请求（PR），等待测试通过后合并
-- 后续更新应用版本，先从主仓库拉取最新代码，添加新的安装包，改下json元数据，再提交合并请求（PR）
+- Last step，make a Pull Request（PR），waiting for the test to pass before merging
+- To update the application version later, first pull the latest code from the main repository, add a new installation package, modify the json metadata, and then submit a merge request (PR)
