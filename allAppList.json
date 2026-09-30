@@ -586,5 +586,19 @@
         "tags": "Utility, Shopping List",
         "openSourceAddress": "https://github.com/eclipse-oniro4openharmony/app-MyList",
         "releaseTime": "2025-12-15"
+    },
+    {
+        "id": 43,
+        "name": "Solitaire",
+        "desc": "Klondike solitaire with draw-one and draw-three rules, undo, autocomplete, and visual themes",
+        "icon": "/data/com.stakar.solitaire/icon.png",
+        "vender": "@sta-kar",
+        "packageName": "com.stakar.solitaire",
+        "version": "1.0.0",
+        "hapUrl": "/data/com.stakar.solitaire/Solitaire-1.0.0.hap",
+        "type": "game",
+        "tags": "Card Game, Solitaire, Klondike",
+        "openSourceAddress": "https://github.com/sta-kar/oniro_solitaire",
+        "releaseTime": "2026-09-30"
     }
 ]
